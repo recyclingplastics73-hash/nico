@@ -11,7 +11,7 @@ Búsqueda web realizada el 2026-08-11 (78 fuentes candidatas únicas detectadas)
 ## A. Descargadas e incorporadas al repo (carpeta [`fuentes/`](fuentes/))
 
 Descarga automática verificada el 2026-08-11. **Valores extraídos y volcados** a las tablas y a
-[datos-extraidos.csv](datos-extraidos.csv) (563 puntos de dato con fabricante, valor original
+[datos-extraidos.csv](datos-extraidos.csv) (588 puntos de dato con fabricante, valor original
 impreso, valor convertido, naturaleza, método y si es comparable con la fila ASTM de la tabla).
 
 Hallazgos del procesamiento:
