@@ -10,8 +10,18 @@ Búsqueda web realizada el 2026-08-11 (78 fuentes candidatas únicas detectadas)
 
 ## A. Descargadas e incorporadas al repo (carpeta [`fuentes/`](fuentes/))
 
-Descarga automática verificada (archivo PDF real) el 2026-08-11. **Valores aún no extraídos** —
-la clasificación medido/típico/mínimo se confirma al procesar cada PDF.
+Descarga automática verificada el 2026-08-11. **Valores extraídos y volcados** a las tablas y a
+[datos-extraidos.csv](datos-extraidos.csv) (563 puntos de dato con fabricante, valor original
+impreso, valor convertido, naturaleza, método y si es comparable con la fila ASTM de la tabla).
+
+Hallazgos del procesamiento:
+- `naue-carbofol406-1500um-gm13.pdf` resultó ser **texturada** (BF/TF) — excluida de las tablas.
+- `cedex-blanco-2013.pdf` es una lámina de **2.0 mm** con 16 años de envejecimiento y valores
+  leídos de figuras — sirve de contexto, no para las tablas de 1.0/1.5.
+- `geosynthetics-mag-2018.pdf` aportó 6 fabricantes adicionales con HDPE liso (AGRU, Atarfil,
+  GSE, Huitex, Layfield, Solmax) + Raven (excluido, no es HDPE liso estándar).
+- Las fichas europeas (Sotrafa, Atarfil, GSE EMEA, NAUE) traen además columnas de **valores
+  típicos/declarados** según normas EN — de lo mejor que se consiguió sin certificados.
 
 | Archivo | Fabricante | Espesor | Tipo esperado | Origen |
 |---|---|---|---|---|

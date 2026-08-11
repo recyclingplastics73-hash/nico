@@ -1,0 +1,589 @@
+fabricante,propiedad,espesor_nominal_mm,valores_convertidos,naturaleza,metodo,direccion,valor_original_impreso,comparable_astm
+Solmax,espesor_promedio,1.0,1.0,minimo,ASTM D5199,,1.00 mm,si
+Solmax,espesor_minimo,1.0,0.9,minimo,ASTM D5199,,0.90 mm,si
+Solmax,densidad,1.0,0.94,minimo,ASTM D792,,≥ 0.940 g/cc,si
+Solmax,negro_humo_contenido,1.0,2.0|3.0,rango,ASTM D4218,,2.0 - 3.0 %,si
+Solmax,negro_humo_dispersion,1.0,Cat. 1 / Cat. 2,tipico,ASTM D5596,,Cat. 1 / Cat. 2,si
+Solmax,oit_std,1.0,100.0,tipico,ASTM D3895,,100 min,si
+Solmax,traccion_fluencia,1.0,15.0,minimo,ASTM D6693,no-indicada,15 kN/m,si
+Solmax,elongacion_fluencia,1.0,13.0,minimo,ASTM D6693,no-indicada,13 %,si
+Solmax,traccion_rotura,1.0,28.0,minimo,ASTM D6693,no-indicada,28 kN/m,si
+Solmax,elongacion_rotura,1.0,700.0,minimo,ASTM D6693,no-indicada,700 %,si
+Solmax,desgarre,1.0,125.0,minimo,ASTM D1004,no-indicada,125 N,si
+Solmax,punzonamiento,1.0,356.0,minimo,ASTM D4833,,356 N,si
+Solmax,scr,1.0,500.0,tipico,ASTM D5397,,500 hr,si
+Solmax,envejecimiento_horno,1.0,80.0,minimo,ASTM D5721 / ASTM D5885,,80 %,si
+Solmax,resistencia_uv,1.0,50.0,minimo,ASTM D7238 / ASTM D5885,,50 %,si
+Solmax,espesor_promedio,1.0,1.016,minimo,ASTM D5994,,40.0 mils,si
+Solmax,espesor_minimo,1.0,0.9144,minimo,ASTM D5994,,36.0 mils,si
+Solmax,densidad,1.0,0.94,minimo,ASTM D792,,≥ 0.94 g/cc,si
+Solmax,negro_humo_contenido,1.0,2.0|3.0,rango,ASTM D4218,,2.0 - 3.0 %,si
+Solmax,negro_humo_dispersion,1.0,Cat. 1 & 2,tipico,ASTM D5596,,Cat. 1 & 2,si
+Solmax,oit_std,1.0,160.0,tipico,ASTM D3895,,160 min,si
+Solmax,oit_hp,1.0,800.0,tipico,ASTM D5885,,800 min,si
+Solmax,traccion_fluencia,1.0,14.7107,minimo,ASTM D6693,no-indicada,84 ppi,si
+Solmax,elongacion_fluencia,1.0,13.0,minimo,ASTM D6693,no-indicada,13 %,si
+Solmax,traccion_rotura,1.0,26.6193,minimo,ASTM D6693,no-indicada,152 ppi,si
+Solmax,elongacion_rotura,1.0,750.0,minimo,ASTM D6693,no-indicada,750 %,si
+Solmax,desgarre,1.0,124.5502,minimo,ASTM D1004,no-indicada,28 lbf,si
+Solmax,punzonamiento,1.0,378.0987,minimo,ASTM D4833,,85 lbf,si
+Solmax,scr,1.0,1000.0,tipico,ASTM D5397,,"1,000 hr",si
+Solmax,envejecimiento_horno,1.0,80.0,minimo,ASTM D5721 / ASTM D5885,,80 %,si
+Solmax,resistencia_uv,1.0,80.0,minimo,GRI GM11 / ASTM D5885,,80 %,si
+Solmax,espesor_promedio,1.5,1.524,minimo,ASTM D5994,,60.0 mils,si
+Solmax,espesor_minimo,1.5,1.3716,minimo,ASTM D5994,,54.0 mils,si
+Solmax,densidad,1.5,0.94,minimo,ASTM D792,,≥ 0.94 g/cc,si
+Solmax,negro_humo_contenido,1.5,2.0|3.0,rango,ASTM D4218,,2.0 - 3.0 %,si
+Solmax,negro_humo_dispersion,1.5,Cat. 1 & 2,tipico,ASTM D5596,,Cat. 1 & 2,si
+Solmax,oit_std,1.5,160.0,tipico,ASTM D3895,,160 min,si
+Solmax,oit_hp,1.5,800.0,tipico,ASTM D5885,,800 min,si
+Solmax,traccion_fluencia,1.5,23.1168,minimo,ASTM D6693,no-indicada,132 ppi,si
+Solmax,elongacion_fluencia,1.5,13.0,minimo,ASTM D6693,no-indicada,13 %,si
+Solmax,traccion_rotura,1.5,42.5559,minimo,ASTM D6693,no-indicada,243 ppi,si
+Solmax,elongacion_rotura,1.5,750.0,minimo,ASTM D6693,no-indicada,750 %,si
+Solmax,desgarre,1.5,186.8252,minimo,ASTM D1004,no-indicada,42 lbf,si
+Solmax,punzonamiento,1.5,556.0275,minimo,ASTM D4833,,125 lbf,si
+Solmax,scr,1.5,1000.0,tipico,ASTM D5397,,"1,000 hr",si
+Solmax,envejecimiento_horno,1.5,80.0,minimo,ASTM D5721 / ASTM D5885,,80 %,si
+Solmax,resistencia_uv,1.5,80.0,minimo,GRI GM11 / ASTM D5885,,80 %,si
+GSE,densidad,1.0,0.94,minimo,DIN EN ISO 1183-1/A,,>= 0.94 g/cm3,si
+GSE,negro_humo_contenido,1.0,2.0|3.0,rango,ASTM D 4218,,2.0 - 3.0 %,si
+GSE,negro_humo_dispersion,1.0,1/2,tipico,ASTM D 5596,,1/2,si
+GSE,scr,1.0,500.0,minimo,ASTM D 5397; Appendix,,>= 500 h,si
+GSE,oit_std,1.0,100.0,minimo,ASTM D 3895 (200 C; O2 puro; 1 atm),,>= 100 min,si
+GSE,resistencia_uv,1.0,50.0,minimo,GRI-GM 11 / ASTM D 5885,,>= 50 %,si
+GSE,densidad,1.5,0.94,minimo,DIN EN ISO 1183-1/A,,>= 0.94 g/cm3,si
+GSE,negro_humo_contenido,1.5,2.0|3.0,rango,ASTM D 4218,,2.0 - 3.0 %,si
+GSE,negro_humo_dispersion,1.5,1/2,tipico,ASTM D 5596,,1/2,si
+GSE,scr,1.5,500.0,minimo,ASTM D 5397; Appendix,,>= 500 h,si
+GSE,oit_std,1.5,100.0,minimo,ASTM D 3895 (200 C; O2 puro; 1 atm),,>= 100 min,si
+GSE,resistencia_uv,1.5,50.0,minimo,GRI-GM 11 / ASTM D 5885,,>= 50 %,si
+GSE,espesor_promedio,1.0,1.0,minimo,ASTM D5199,,40 (1.00) mils (mm),si
+GSE,espesor_minimo,1.0,0.9,minimo,ASTM D5199,,36 (0.90) mils (mm),si
+GSE,densidad,1.0,0.94,minimo,ASTM D792,,>= 0.94 g/cm3,si
+GSE,traccion_rotura,1.0,28.0,minimo,ASTM D6693,no-indicada,162 (28) ppi (kN/m),si
+GSE,traccion_fluencia,1.0,15.0,minimo,ASTM D6693,no-indicada,88 (15) lb/in (kN/m),si
+GSE,elongacion_rotura,1.0,700.0,minimo,ASTM D6693,no-indicada,700 %,si
+GSE,elongacion_fluencia,1.0,13.0,minimo,ASTM D6693,no-indicada,13 %,si
+GSE,desgarre,1.0,125.0,minimo,ASTM D1004,no-indicada,28 (125) lbf (N),si
+GSE,punzonamiento,1.0,356.0,minimo,ASTM D4833,,80 (356) lbf (N),si
+GSE,negro_humo_contenido,1.0,2.0,rango,ASTM D4218,,2.0-3.0 %,si
+GSE,negro_humo_dispersion,1.0,Cat. 1 & Cat. 2,tipico,ASTM D 5596,,Cat. 1 & Cat. 2,si
+GSE,scr,1.0,500.0,tipico,ASTM D 5397,,500 hr,si
+GSE,espesor_promedio,1.5,1.5,minimo,ASTM D5199,,60 (1.50) mils (mm),si
+GSE,espesor_minimo,1.5,1.35,minimo,ASTM D5199,,54 (1.35) mils (mm),si
+GSE,densidad,1.5,0.94,minimo,ASTM D792,,>= 0.94 g/cm3,si
+GSE,traccion_rotura,1.5,43.0,minimo,ASTM D6693,no-indicada,243 (43) ppi (kN/m),si
+GSE,traccion_fluencia,1.5,23.0,minimo,ASTM D6693,no-indicada,132 (23) lb/in (kN/m),si
+GSE,elongacion_rotura,1.5,700.0,minimo,ASTM D6693,no-indicada,700 %,si
+GSE,elongacion_fluencia,1.5,13.0,minimo,ASTM D6693,no-indicada,13 %,si
+GSE,desgarre,1.5,187.0,minimo,ASTM D1004,no-indicada,42 (187) lbf (N),si
+GSE,punzonamiento,1.5,534.0,minimo,ASTM D4833,,120 (534) lbf (N),si
+GSE,negro_humo_contenido,1.5,2.0,rango,ASTM D4218,,2.0-3.0 %,si
+GSE,negro_humo_dispersion,1.5,Cat. 1 & Cat. 2,tipico,ASTM D 5596,,Cat. 1 & Cat. 2,si
+GSE,scr,1.5,500.0,tipico,ASTM D 5397,,500 hr,si
+AGRU,espesor_promedio,1.0,1.0,minimo,ASTM D5199,no-indicada,40 (1.0) mil (mm),si
+AGRU,espesor_minimo,1.0,0.9144,minimo,ASTM D5199,no-indicada,36 (.90) mil (mm),si
+AGRU,densidad,1.0,0.94,minimo,"ASTM D792, Method B",no-indicada,0.94 g/cc,si
+AGRU,traccion_fluencia,1.0,15.4,minimo,"ASTM D6693, Type IV",promedio,88 (15.4) lb/in width (N/mm),si
+AGRU,elongacion_fluencia,1.0,13.0,minimo,"ASTM D6693, Type IV",promedio,13 %,si
+AGRU,traccion_rotura,1.0,28.0,minimo,"ASTM D6693, Type IV",promedio,160 (28) lb/in width (N/mm),si
+AGRU,elongacion_rotura,1.0,700.0,minimo,"ASTM D6693, Type IV",promedio,700 %,si
+AGRU,desgarre,1.0,133.0,minimo,ASTM D1004,no-indicada,30 (133) lbs. (N),si
+AGRU,punzonamiento,1.0,356.0,minimo,ASTM D4833,no-indicada,80 (356) lbs. (N),si
+AGRU,negro_humo_contenido,1.0,2.0|3.0,rango,ASTM D4218,no-indicada,2 - 3 %,si
+AGRU,negro_humo_dispersion,1.0,"Only near spherical agglomerates; for 10 views: 9 views in Cat. 1 or 2, and 1 view in Cat. 3",minimo,ASTM D5596,,"Only near spherical agglomerates; for 10 views: 9 views in Cat. 1 or 2, and 1 view in Cat. 3",si
+AGRU,scr,1.0,300.0,minimo,"ASTM D5397, Appendix",no-indicada,300 hours,si
+AGRU,oit_std,1.0,140.0,minimo,"ASTM D3895, 200°C, 1 atm O2",no-indicada,≥140 minutes,si
+AGRU,envejecimiento_horno,1.0,80.0,minimo,"ASTM D5721 (horno) con HP-OIT ASTM D5885, 150°C, 500 psi O2",no-indicada,80 %,si
+AGRU,resistencia_uv,1.0,50.0,minimo,"ASTM D7238 (ciclo 20 h UV @75°C / 4 h condensacion oscura @60°C) con HP-OIT ASTM D5885, 150°C, 500 psi O2",no-indicada,50 %,si
+AGRU,espesor_promedio,1.5,1.5,minimo,ASTM D5199,no-indicada,60 (1.5) mil (mm),si
+AGRU,espesor_minimo,1.5,1.35,minimo,ASTM D5199,no-indicada,54 (1.35) mil (mm),si
+AGRU,densidad,1.5,0.94,minimo,"ASTM D792, Method B",no-indicada,0.94 g/cc,si
+AGRU,traccion_fluencia,1.5,23.1,minimo,"ASTM D6693, Type IV",promedio,132 (23.1) lb/in width (N/mm),si
+AGRU,elongacion_fluencia,1.5,13.0,minimo,"ASTM D6693, Type IV",promedio,13 %,si
+AGRU,traccion_rotura,1.5,42.0,minimo,"ASTM D6693, Type IV",promedio,240 (42) lb/in width (N/mm),si
+AGRU,elongacion_rotura,1.5,700.0,minimo,"ASTM D6693, Type IV",promedio,700 %,si
+AGRU,desgarre,1.5,200.0,minimo,ASTM D1004,no-indicada,45 (200) lbs. (N),si
+AGRU,punzonamiento,1.5,534.0,minimo,ASTM D4833,no-indicada,120 (534) lbs. (N),si
+AGRU,negro_humo_contenido,1.5,2.0|3.0,rango,ASTM D4218,no-indicada,2 - 3 %,si
+AGRU,negro_humo_dispersion,1.5,"Only near spherical agglomerates; for 10 views: 9 views in Cat. 1 or 2, and 1 view in Cat. 3",minimo,ASTM D5596,,"Only near spherical agglomerates; for 10 views: 9 views in Cat. 1 or 2, and 1 view in Cat. 3",si
+AGRU,scr,1.5,300.0,minimo,"ASTM D5397, Appendix",no-indicada,300 hours,si
+AGRU,oit_std,1.5,140.0,minimo,"ASTM D3895, 200°C, 1 atm O2",no-indicada,≥140 minutes,si
+AGRU,envejecimiento_horno,1.5,80.0,minimo,"ASTM D5721 (horno) con HP-OIT ASTM D5885, 150°C, 500 psi O2",no-indicada,80 %,si
+AGRU,resistencia_uv,1.5,50.0,minimo,"ASTM D7238 (ciclo 20 h UV @75°C / 4 h condensacion oscura @60°C) con HP-OIT ASTM D5885, 150°C, 500 psi O2",no-indicada,50 %,si
+NAUE,espesor_promedio,1.0,1.0,tipico,EN 1849-2,,1.00 mm,si
+NAUE,densidad,1.0,0.94,minimo,EN ISO 1183,,>= 0.940 g/cm3,si
+NAUE,negro_humo_contenido,1.0,2.0|3.0,rango,ASTM D1603 / ASTM D4218,,2 - 3 %,si
+NAUE,negro_humo_dispersion,1.0,1 - 2,rango,ASTM D5596,,1 - 2,si
+NAUE,punzonamiento,1.0,320.0,tipico,ASTM D4833,,320 N,si
+NAUE,espesor_promedio,1.0,1.0,minimo,ASTM D5199,,"1,0 mm",si
+NAUE,espesor_promedio,1.5,1.5,minimo,ASTM D5199,,"1,5 mm",si
+NAUE,densidad,1.0,0.942,tipico,ASTM D1505 / D792,,"0,942 g/cm3",si
+NAUE,densidad,1.5,0.942,tipico,ASTM D1505 / D792,,"0,942 g/cm3",si
+NAUE,traccion_fluencia,1.0,16.0,tipico,ASTM D6693,no-indicada,16 kN/m,si
+NAUE,traccion_fluencia,1.5,25.0,tipico,ASTM D6693,no-indicada,25 kN/m,si
+NAUE,elongacion_fluencia,1.0,12.0,tipico,ASTM D6693,no-indicada,12 %,si
+NAUE,elongacion_fluencia,1.5,12.0,tipico,ASTM D6693,no-indicada,12 %,si
+NAUE,traccion_rotura,1.0,28.0,tipico,ASTM D6693,no-indicada,28 kN/m,si
+NAUE,traccion_rotura,1.5,42.0,tipico,ASTM D6693,no-indicada,42 kN/m,si
+NAUE,elongacion_rotura,1.0,700.0,tipico,ASTM D6693,no-indicada,700 %,si
+NAUE,elongacion_rotura,1.5,700.0,tipico,ASTM D6693,no-indicada,700 %,si
+NAUE,desgarre,1.0,135.0,tipico,ASTM D1004,no-indicada,135 N,si
+NAUE,desgarre,1.5,195.0,tipico,ASTM D1004,no-indicada,195 N,si
+NAUE,punzonamiento,1.0,390.0,tipico,ASTM D4833,,390 N,si
+NAUE,punzonamiento,1.5,480.0,tipico,ASTM D4833,,480 N,si
+NAUE,negro_humo_contenido,1.0,2.0,rango,ASTM D1603,,2-3 %,si
+NAUE,negro_humo_contenido,1.5,2.0,rango,ASTM D1603,,2-3 %,si
+NAUE,negro_humo_dispersion,1.0,1-2,rango,ASTM D5596,,1-2,si
+NAUE,negro_humo_dispersion,1.5,1-2,rango,ASTM D5596,,1-2,si
+NAUE,oit_std,1.0,100.0,tipico,ASTM D3895,,100 min,si
+NAUE,oit_std,1.5,100.0,tipico,ASTM D3895,,100 min,si
+NAUE,envejecimiento_horno,1.0,55.0,tipico,ASTM D5721 / D3895,,55 %,si
+NAUE,envejecimiento_horno,1.5,55.0,tipico,ASTM D5721 / D3895,,55 %,si
+NAUE,scr,1.0,400.0,tipico,ASTM D5397,,400 hour,si
+NAUE,scr,1.5,400.0,tipico,ASTM D5397,,400 hour,si
+Atarfil,espesor_promedio,1.0,1.0,tipico,UNE EN 1849-2,no-indicada,"1,00 mm",si
+Atarfil,densidad,1.0,0.94,minimo,UNE EN ISO 1183-1,,"> 0,940 g/cm3",si
+Atarfil,negro_humo_contenido,1.0,2.0|2.5,rango,ASTM D 4218,,"2,0 - 2,5 %",si
+Atarfil,scr,1.0,300.0,minimo,ASTM D 5397,,>300 h,si
+Atarfil,espesor_promedio,1.5,1.5,tipico,UNE EN 1849-2,no-indicada,"1,50 mm",si
+Atarfil,densidad,1.5,0.94,minimo,UNE EN ISO 1183-1,,"> 0,940 g/cm3",si
+Atarfil,negro_humo_contenido,1.5,2.0|2.5,rango,ASTM D 4218,,"2,0 - 2,5 %",si
+Atarfil,scr,1.5,300.0,minimo,ASTM D 5397,,>300 h,si
+Sotrafa,densidad,1.0,0.94,minimo,UNE-EN ISO 1183,no-indicada,> 0.940 g/cm3,si
+Sotrafa,negro_humo_contenido,1.0,2.5,tipico,ISO 6964,no-indicada,2.50 (2.25 +- 0.25) %,si
+Sotrafa,densidad,1.5,0.94,minimo,UNE-EN ISO 1183,no-indicada,> 0.940 g/cm3,si
+Sotrafa,negro_humo_contenido,1.5,2.5,tipico,ISO 6964,no-indicada,2.50 (2.25 +- 0.25) %,si
+Sotrafa,espesor_promedio,1.0,1.0,minimo,ASTM D 5199,no-indicada,1.00 mm,si
+Sotrafa,densidad,1.0,0.94,minimo,ASTM D 1505,no-indicada,>= 0.940 g/cm3,si
+Sotrafa,traccion_fluencia,1.0,16.0,tipico,ASTM D 6693,no-indicada,16 (>= 15) kN/m,si
+Sotrafa,traccion_rotura,1.0,30.0,tipico,ASTM D 6693,no-indicada,30 (>= 27) kN/m,si
+Sotrafa,elongacion_fluencia,1.0,13.0,tipico,ASTM D 6693,no-indicada,13 (>= 12) %,si
+Sotrafa,elongacion_rotura,1.0,800.0,tipico,ASTM D 6693,no-indicada,800 (>= 700) %,si
+Sotrafa,desgarre,1.0,145.0,tipico,ASTM D 1004,no-indicada,145 (>= 125) N,si
+Sotrafa,punzonamiento,1.0,440.0,tipico,ASTM D 4833,no-indicada,440 (>=320) N,si
+Sotrafa,scr,1.0,500.0,minimo,ASTM D 5397,no-indicada,>= 500 h,si
+Sotrafa,negro_humo_contenido,1.0,2.0|3.0,rango,ASTM D 4218,no-indicada,2 - 3 %,si
+Sotrafa,negro_humo_dispersion,1.0,1 - 2,rango,ASTM D 5596,,1 - 2,si
+Sotrafa,oit_std,1.0,100.0,minimo,ASTM D 3895,no-indicada,>= 100 min,si
+Sotrafa,oit_hp,1.0,400.0,minimo,ASTM D 5885,no-indicada,>= 400 min,si
+Sotrafa,envejecimiento_horno,1.0,55.0,minimo,ASTM D 5721 / ASTM D 3895,no-indicada,>= 55 % retenido,si
+Sotrafa,envejecimiento_horno,1.0,80.0,minimo,ASTM D 5721 / ASTM D 5885 (impreso 'ASTN D 5885'),no-indicada,>= 80 % retenido,si
+Sotrafa,resistencia_uv,1.0,50.0,minimo,ASTM D7238 / ASTM D5885,no-indicada,>= 50 % retenido,si
+Sotrafa,espesor_promedio,1.5,1.5,minimo,ASTM D 5199,no-indicada,1.50 mm,si
+Sotrafa,densidad,1.5,0.94,minimo,ASTM D 1505,no-indicada,>= 0.940 g/cm3,si
+Sotrafa,traccion_fluencia,1.5,24.0,tipico,ASTM D 6693,no-indicada,24 (>= 22) kN/m,si
+Sotrafa,traccion_rotura,1.5,45.0,tipico,ASTM D 6693,no-indicada,45 (>= 40) kN/m,si
+Sotrafa,elongacion_fluencia,1.5,13.0,tipico,ASTM D 6693,no-indicada,13 (>= 12) %,si
+Sotrafa,elongacion_rotura,1.5,800.0,tipico,ASTM D 6693,no-indicada,800 (>= 700) %,si
+Sotrafa,desgarre,1.5,215.0,tipico,ASTM D 1004,no-indicada,215 (>= 187) N,si
+Sotrafa,punzonamiento,1.5,550.0,tipico,ASTM D 4833,no-indicada,550 (>=480) N,si
+Sotrafa,scr,1.5,500.0,minimo,ASTM D 5397,no-indicada,>= 500 h,si
+Sotrafa,negro_humo_contenido,1.5,2.0|3.0,rango,ASTM D 4218,no-indicada,2 - 3 %,si
+Sotrafa,negro_humo_dispersion,1.5,1 - 2,rango,ASTM D 5596,,1 - 2,si
+Sotrafa,oit_std,1.5,100.0,minimo,ASTM D 3895,no-indicada,>= 100 min,si
+Sotrafa,oit_hp,1.5,400.0,minimo,ASTM D 5885,no-indicada,>= 400 min,si
+Sotrafa,envejecimiento_horno,1.5,55.0,minimo,ASTM D 5721 / ASTM D 3895,no-indicada,>= 55 % retenido,si
+Sotrafa,envejecimiento_horno,1.5,80.0,minimo,ASTM D 5721 / ASTM D 5885 (impreso 'ASTN D 5885'),no-indicada,>= 80 % retenido,si
+Sotrafa,resistencia_uv,1.5,50.0,minimo,ASTM D7238 / ASTM D5885,no-indicada,>= 50 % retenido,si
+Maruplast,densidad,1.0,0.94,minimo,ASTM D 1505,no-indicada,>0.940 g/cm3,si
+Maruplast,densidad,1.5,0.94,minimo,ASTM D 1505,no-indicada,>0.940 g/cm3,si
+Maruplast,espesor_promedio,1.0,0.9,minimo,ASTM D 5199,no-indicada,0.9 mm,si
+Maruplast,espesor_promedio,1.5,1.35,minimo,ASTM D 5199,no-indicada,1.35 mm,si
+Maruplast,traccion_rotura,1.0,27.0,minimo,ASTM D 6693,no-indicada,≥27 kN/m,si
+Maruplast,traccion_rotura,1.5,40.0,minimo,ASTM D 6693,no-indicada,≥40 kN/m,si
+Maruplast,elongacion_rotura,1.0,750.0,tipico,ASTM D 6693,no-indicada,750 %,si
+Maruplast,elongacion_rotura,1.5,750.0,tipico,ASTM D 6693,no-indicada,750 %,si
+Maruplast,traccion_fluencia,1.0,15.0,minimo,ASTM D 6693,no-indicada,≥15 kN/m,si
+Maruplast,traccion_fluencia,1.5,22.0,minimo,ASTM D 6693,no-indicada,≥22 kN/m,si
+Maruplast,elongacion_fluencia,1.0,12.0,tipico,ASTM D 6693,no-indicada,12 %,si
+Maruplast,elongacion_fluencia,1.5,12.0,tipico,ASTM D 6693,no-indicada,12 %,si
+Maruplast,punzonamiento,1.0,320.0,tipico,ASTM D 4833,no-indicada,320 N,si
+Maruplast,punzonamiento,1.5,480.0,tipico,ASTM D 4833,no-indicada,480 N,si
+Maruplast,desgarre,1.0,125.0,tipico,ASTM D 1004,no-indicada,125 N,si
+Maruplast,desgarre,1.5,187.0,tipico,ASTM D 1004,no-indicada,187 N,si
+Maruplast,scr,1.0,500.0,minimo,ASTM D 5397,no-indicada,≥500 h,si
+Maruplast,scr,1.5,500.0,minimo,ASTM D 5397,no-indicada,≥500 h,si
+Maruplast,negro_humo_contenido,1.0,2.0,rango,ASTM D 4218,no-indicada,2-3 %,si
+Maruplast,negro_humo_contenido,1.5,2.0,rango,ASTM D 4218,no-indicada,2-3 %,si
+Maruplast,negro_humo_dispersion,1.0,1-2,rango,ASTM D 5596,,1-2,si
+Maruplast,negro_humo_dispersion,1.5,1-2,rango,ASTM D 5596,,1-2,si
+Maruplast,oit_std,1.0,100.0,minimo,ASTM D 3895,no-indicada,≥100 min,si
+Maruplast,oit_std,1.5,100.0,minimo,ASTM D 3895,no-indicada,≥100 min,si
+Maruplast,envejecimiento_horno,1.0,55.0,minimo,ASTM D 5721 / ASTM D 3895,no-indicada,≥55 % retenido,si
+Maruplast,envejecimiento_horno,1.5,55.0,minimo,ASTM D 5721 / ASTM D 3895,no-indicada,≥55 % retenido,si
+Maruplast,resistencia_uv,1.0,50.0,minimo,ASTM D 7238 / ASTM D 5885,no-indicada,≥50 % retenido,si
+Maruplast,resistencia_uv,1.5,50.0,minimo,ASTM D 7238 / ASTM D 5885,no-indicada,≥50 % retenido,si
+GEOSAI,espesor_promedio,1.0,1.0,minimo,ASTM D-5199,no-indicada,1.00 mm,si
+GEOSAI,espesor_minimo,1.0,0.9,minimo,ASTM D-5199,no-indicada,0.90 mm,si
+GEOSAI,densidad,1.0,0.94,minimo,ASTM D-1505,no-indicada,≥ 0.940 g/cc,si
+GEOSAI,negro_humo_contenido,1.0,2.0|3.0,rango,ASTM D-4218,no-indicada,2.0 - 3.0 %,si
+GEOSAI,negro_humo_dispersion,1.0,Cat. 1 / Cat. 2,rango,ASTM D-5596,,Cat. 1 / Cat. 2,si
+GEOSAI,oit_std,1.0,100.0,minimo,ASTM D-3895,no-indicada,100 min,si
+GEOSAI,traccion_fluencia,1.0,15.0,minimo,ASTM D-6693,no-indicada,15 kN/m,si
+GEOSAI,elongacion_fluencia,1.0,13.0,minimo,ASTM D-6693,no-indicada,13 %,si
+GEOSAI,traccion_rotura,1.0,28.0,minimo,ASTM D-6693,no-indicada,28 kN/m,si
+GEOSAI,elongacion_rotura,1.0,700.0,minimo,ASTM D-6693,no-indicada,700 %,si
+GEOSAI,desgarre,1.0,125.0,minimo,ASTM D-1004,no-indicada,125 N,si
+GEOSAI,punzonamiento,1.0,355.0,minimo,ASTM D-4833,no-indicada,355 N,si
+GEOSAI,scr,1.0,500.0,minimo,ASTM D-5397,no-indicada,500 hr,si
+GEOSAI,envejecimiento_horno,1.0,80.0,minimo,ASTM D-5721 / ASTM D-5885,no-indicada,80 %,si
+GEOSAI,resistencia_uv,1.0,50.0,minimo,GRI-GM-11 / ASTM D-5885,no-indicada,50 %,si
+DM Geosinteticos,espesor_promedio,1.5,1.5,tipico,ASTM D5199,no-indicada,1.50 mm,si
+DM Geosinteticos,espesor_minimo,1.5,1.35,minimo,ASTM D5199,no-indicada,1.35 mm,si
+DM Geosinteticos,densidad,1.5,0.94,tipico,ASTM D792,no-indicada,0.940 g/cm3,si
+DM Geosinteticos,traccion_rotura,1.5,44.0,tipico,ASTM D6693 - IV,no-indicada,44 kN/m,si
+DM Geosinteticos,traccion_fluencia,1.5,23.0,tipico,ASTM D6693 - IV,no-indicada,23 kN/m,si
+DM Geosinteticos,elongacion_rotura,1.5,750.0,tipico,ASTM D6693 - IV,no-indicada,750 %,si
+DM Geosinteticos,elongacion_fluencia,1.5,15.0,tipico,ASTM D6693 - IV,no-indicada,15 %,si
+DM Geosinteticos,desgarre,1.5,197.0,tipico,ASTM D1004,no-indicada,197 N,si
+DM Geosinteticos,punzonamiento,1.5,520.0,tipico,ASTM D4833,no-indicada,520 N,si
+DM Geosinteticos,scr,1.5,300.0,minimo,ASTM D5397,no-indicada,> 300 h,si
+DM Geosinteticos,negro_humo_contenido,1.5,2.0|3.0,rango,ASTM D4218,no-indicada,2 - 3 %,si
+DM Geosinteticos,negro_humo_dispersion,1.5,Nota 2,rango,ASTM D5596,,Nota 2,si
+DM Geosinteticos,oit_hp,1.5,680.0,minimo,ASTM D5885,no-indicada,> 680 min,si
+DM Geosinteticos,oit_std,1.5,120.0,minimo,ASTM D3895,no-indicada,> 120 min,si
+DM Geosinteticos,envejecimiento_horno,1.5,80.0,minimo,ASTM D5721 / ASTM D5885,no-indicada,> 80 %,si
+DM Geosinteticos,resistencia_uv,1.5,80.0,minimo,ASTM D7238 / ASTM G154 / ASTM D5885,no-indicada,> 80 %,si
+Pavco,traccion_fluencia,1.0,15.0,tipico,ASTM D6693 Tipo IV,no-indicada,15 N/mm,si
+Pavco,traccion_rotura,1.0,27.0,tipico,ASTM D6693 Tipo IV,no-indicada,27 N/mm,si
+Pavco,elongacion_fluencia,1.0,12.0,tipico,ASTM D6693 Tipo IV,no-indicada,12 %,si
+Pavco,elongacion_rotura,1.0,700.0,tipico,ASTM D6693 Tipo IV,no-indicada,700 %,si
+Pavco,desgarre,1.0,125.0,tipico,ASTM D1004,no-indicada,125 N,si
+Pavco,punzonamiento,1.0,320.0,tipico,ASTM D4833,no-indicada,320 N,si
+Pavco,espesor_promedio,1.0,0.9,minimo,ASTM D5199,,0.90 mm,si
+Pavco,densidad,1.0,0.94,minimo,ASTM D1505 / D792,,>0.94 g/cm3,si
+Pavco,negro_humo_contenido,1.0,2.0|3.0,rango,ASTM D1603 / D4218,,2.0 - 3.0 %,si
+Pavco,oit_std,1.0,100.0,minimo,"ASTM D3895, 200 ºC",,>100 Minutos,si
+Pavco,envejecimiento_horno,1.0,55.0|80.0,minimo,ASTM D5721 (Retención OIT por ASTM D3895 o D5885),,>55/80 %,si
+Pavco,traccion_fluencia,1.5,22.0,tipico,ASTM D6693 Tipo IV,no-indicada,22 N/mm,si
+Pavco,traccion_rotura,1.5,40.0,tipico,ASTM D6693 Tipo IV,no-indicada,40 N/mm,si
+Pavco,elongacion_fluencia,1.5,12.0,tipico,ASTM D6693 Tipo IV,no-indicada,12 %,si
+Pavco,elongacion_rotura,1.5,700.0,tipico,ASTM D6693 Tipo IV,no-indicada,700 %,si
+Pavco,desgarre,1.5,187.0,tipico,ASTM D1004,no-indicada,187 N,si
+Pavco,punzonamiento,1.5,480.0,tipico,ASTM D4833,no-indicada,480 N,si
+Pavco,espesor_promedio,1.5,1.35,minimo,ASTM D5199,,1.35 mm,si
+Pavco,densidad,1.5,0.94,minimo,ASTM D1505 / D792,,>0.94 g/cm3,si
+Pavco,negro_humo_contenido,1.5,2.0|3.0,rango,ASTM D1603 / D4218,,2.0 - 3.0 %,si
+Pavco,oit_std,1.5,100.0,minimo,"ASTM D3895, 200 ºC",,>100 Minutos,si
+Pavco,envejecimiento_horno,1.5,55.0|80.0,minimo,ASTM D5721 (Retención OIT por ASTM D3895 o D5885),,>55/80 %,si
+gob.pe,espesor_promedio,1.0,1.0,rango,ASTM D5199 o NTP 339.512,,"1,00 ± 0,1 mm",si
+gob.pe,negro_humo_contenido,1.0,2.0|3.0,rango,ASTM D4218,,"2,0 - 3,0 %",si
+gob.pe,negro_humo_dispersion,1.0,categoría 1 - 2,rango,ASTM D5596,,categoría 1 - 2,si
+gob.pe,densidad,1.0,0.94,minimo,ASTM D792,,"≥ 0,940 g/cm3",si
+gob.pe,resistencia_uv,1.0,80.0,minimo,ASTM D7238 / ASTM G154 / ASTM D5885,,80 %,si
+gob.pe,traccion_rotura,1.0,27.0,minimo,ASTM D6693,no-indicada,≥ 27 KN/m,si
+gob.pe,traccion_fluencia,1.0,15.0,minimo,ASTM D6693,no-indicada,≥ 15 KN/m,si
+gob.pe,desgarre,1.0,125.0,minimo,ASTM D1004,no-indicada,≥ 125 N,si
+gob.pe,punzonamiento,1.0,320.0,minimo,ASTM D4833,no-indicada,≥ 320 N,si
+gob.pe,elongacion_rotura,1.0,700.0,minimo,ASTM D6693,no-indicada,≥ 700 %,si
+gob.pe,elongacion_fluencia,1.0,12.0,minimo,ASTM D6693,no-indicada,≥ 12 %,si
+gob.pe,envejecimiento_horno,1.0,80.0,minimo,ASTM D5721 / ASTM D5885,,80 %,si
+AGRU,espesor_promedio,1.0,1.0,minimo,ASTM D5199,,1.0 (40) mm (mils),si
+AGRU,densidad,1.0,0.94,minimo,ASTM D1505/D792,,0.94 g/cm3,si
+AGRU,traccion_fluencia,1.0,15.0,minimo,ASTM D6693,no-indicada,15 (88) kN/m (lb/in),si
+AGRU,traccion_rotura,1.0,28.0,minimo,ASTM D6693,no-indicada,28 (160) kN/m (lb/in),si
+AGRU,elongacion_fluencia,1.0,13.0,minimo,ASTM D6693,no-indicada,13 %,si
+AGRU,elongacion_rotura,1.0,700.0,minimo,ASTM D6693,no-indicada,700 %,si
+AGRU,punzonamiento,1.0,360.0,minimo,ASTM D4833,no-indicada,0.36 (80) kN (lb),si
+AGRU,desgarre,1.0,130.0,minimo,ASTM D1004,no-indicada,0.13 (30) kN (lb),si
+AGRU,negro_humo_contenido,1.0,2.0|3.0,rango,ASTM D1603,,2–3 %,si
+AGRU,negro_humo_dispersion,1.0,Cat 1/2,minimo,ASTM D5596,,Cat 1/2,si
+AGRU,scr,1.0,1000.0,minimo,ASTM D5397 (SP-NCTL),,1000 h,si
+AGRU,oit_std,1.0,160.0,minimo,ASTM D3895,,160 min,si
+AGRU,oit_hp,1.0,800.0,minimo,ASTM D5885,,800 min,si
+AGRU,envejecimiento_horno,1.0,55.0,minimo,ASTM D5721 + D3895,,55 %,si
+AGRU,envejecimiento_horno,1.0,80.0,minimo,ASTM D5721 + D5885,,80 %,si
+AGRU,resistencia_uv,1.0,80.0,minimo,GM11 (D5885 tras 1600 h),,80 %,si
+AGRU,espesor_promedio,1.5,1.5,minimo,ASTM D5199,,1.5 (60) mm (mils),si
+AGRU,densidad,1.5,0.94,minimo,ASTM D1505/D792,,0.94 g/cm3,si
+AGRU,traccion_fluencia,1.5,23.0,minimo,ASTM D6693,no-indicada,23 (132) kN/m (lb/in),si
+AGRU,traccion_rotura,1.5,42.0,minimo,ASTM D6693,no-indicada,42 (240) kN/m (lb/in),si
+AGRU,elongacion_fluencia,1.5,13.0,minimo,ASTM D6693,no-indicada,13 %,si
+AGRU,elongacion_rotura,1.5,700.0,minimo,ASTM D6693,no-indicada,700 %,si
+AGRU,punzonamiento,1.5,530.0,minimo,ASTM D4833,no-indicada,0.53 (120) kN (lb),si
+AGRU,desgarre,1.5,200.0,minimo,ASTM D1004,no-indicada,0.20 (45) kN (lb),si
+AGRU,negro_humo_contenido,1.5,2.0|3.0,rango,ASTM D1603,,2–3 %,si
+AGRU,negro_humo_dispersion,1.5,Cat 1/2,minimo,ASTM D5596,,Cat 1/2,si
+AGRU,scr,1.5,1000.0,minimo,ASTM D5397 (SP-NCTL),,1000 h,si
+AGRU,oit_std,1.5,160.0,minimo,ASTM D3895,,160 min,si
+AGRU,oit_hp,1.5,800.0,minimo,ASTM D5885,,800 min,si
+AGRU,envejecimiento_horno,1.5,55.0,minimo,ASTM D5721 + D3895,,55 %,si
+AGRU,envejecimiento_horno,1.5,80.0,minimo,ASTM D5721 + D5885,,80 %,si
+AGRU,resistencia_uv,1.5,80.0,minimo,GM11 (D5885 tras 1600 h),,80 %,si
+Atarfil,densidad,1.0,0.942,minimo,ASTM D1505/D792,,"≥ 0,942 g/cm3",si
+Atarfil,elongacion_fluencia,1.0,12.0,minimo,ASTM D6693,no-indicada,> 12 %,si
+Atarfil,elongacion_rotura,1.0,700.0,minimo,ASTM D6693,no-indicada,≥ 700 %,si
+Atarfil,negro_humo_contenido,1.0,2.0|2.5,rango,ASTM D1603,,2–2.5 %,si
+Atarfil,negro_humo_dispersion,1.0,1.2,minimo,ASTM D5596,,1.2,si
+Atarfil,scr,1.0,3000.0,minimo,ASTM D5397 (SP-NCTL),,≥3000 h,si
+Atarfil,oit_std,1.0,100.0,minimo,ASTM D3895,,100 min,si
+Atarfil,oit_hp,1.0,400.0,minimo,ASTM D5885,,≥400 min,si
+Atarfil,envejecimiento_horno,1.0,55.0,minimo,ASTM D5721 + D3895,,55 %,si
+Atarfil,envejecimiento_horno,1.0,80.0,minimo,ASTM D5721 + D5885,,80 %,si
+Atarfil,resistencia_uv,1.0,70.0,minimo,GM11 (D5885 tras 1600 h),,70 %,si
+Atarfil,densidad,1.5,0.942,minimo,ASTM D1505/D792,,"≥ 0,942 g/cm3",si
+Atarfil,elongacion_fluencia,1.5,12.0,minimo,ASTM D6693,no-indicada,> 12 %,si
+Atarfil,elongacion_rotura,1.5,700.0,minimo,ASTM D6693,no-indicada,≥ 700 %,si
+Atarfil,negro_humo_contenido,1.5,2.0|2.5,rango,ASTM D1603,,2–2.5 %,si
+Atarfil,negro_humo_dispersion,1.5,1.2,minimo,ASTM D5596,,1.2,si
+Atarfil,scr,1.5,3000.0,minimo,ASTM D5397 (SP-NCTL),,≥3000 h,si
+Atarfil,oit_std,1.5,100.0,minimo,ASTM D3895,,100 min,si
+Atarfil,oit_hp,1.5,400.0,minimo,ASTM D5885,,≥400 min,si
+Atarfil,envejecimiento_horno,1.5,55.0,minimo,ASTM D5721 + D3895,,55 %,si
+Atarfil,envejecimiento_horno,1.5,80.0,minimo,ASTM D5721 + D5885,,80 %,si
+Atarfil,resistencia_uv,1.5,70.0,minimo,GM11 (D5885 tras 1600 h),,70 %,si
+GSE,espesor_promedio,1.0,1.0,minimo,ASTM D5199,,1.0 (40) mm (mils),si
+GSE,densidad,1.0,0.94,minimo,ASTM D1505/D792,,0.940 g/cm3,si
+GSE,traccion_fluencia,1.0,15.0,minimo,ASTM D6693,no-indicada,15 (84) kN/m (lb/in),si
+GSE,traccion_rotura,1.0,27.0,minimo,ASTM D6693,no-indicada,27 (152) kN/m (lb/in),si
+GSE,elongacion_fluencia,1.0,12.0,minimo,ASTM D6693,no-indicada,12 %,si
+GSE,elongacion_rotura,1.0,700.0,minimo,ASTM D6693,no-indicada,700 %,si
+GSE,punzonamiento,1.0,320.0,minimo,ASTM D4833,no-indicada,0.320 (72) kN (lb),si
+GSE,desgarre,1.0,125.0,minimo,ASTM D1004,no-indicada,0.125 (28) kN (lb),si
+GSE,negro_humo_contenido,1.0,2.0|3.0,rango,ASTM D1603,,2–3 %,si
+GSE,negro_humo_dispersion,1.0,"1, 2, 3",minimo,ASTM D5596,,"1, 2, 3",si
+GSE,scr,1.0,300.0,minimo,ASTM D5397 (SP-NCTL),,300 h,si
+GSE,oit_std,1.0,100.0,minimo,ASTM D3895,,100 min,si
+GSE,oit_hp,1.0,400.0,minimo,ASTM D5885,,400 min,si
+GSE,envejecimiento_horno,1.0,55.0,minimo,ASTM D5721 + D3895,,55 %,si
+GSE,envejecimiento_horno,1.0,80.0,minimo,ASTM D5721 + D5885,,80 %,si
+GSE,resistencia_uv,1.0,50.0,minimo,GM11 (D5885 tras 1600 h),,50 %,si
+GSE,espesor_promedio,1.5,1.5,minimo,ASTM D5199,,1.5 (60) mm (mils),si
+GSE,densidad,1.5,0.94,minimo,ASTM D1505/D792,,0.940 g/cm3,si
+GSE,traccion_fluencia,1.5,22.0,minimo,ASTM D6693,no-indicada,22 (126) kN/m (lb/in),si
+GSE,traccion_rotura,1.5,40.0,minimo,ASTM D6693,no-indicada,40 (228) kN/m (lb/in),si
+GSE,elongacion_fluencia,1.5,12.0,minimo,ASTM D6693,no-indicada,12 %,si
+GSE,elongacion_rotura,1.5,700.0,minimo,ASTM D6693,no-indicada,700 %,si
+GSE,punzonamiento,1.5,480.0,minimo,ASTM D4833,no-indicada,0.480 (108) kN (lb),si
+GSE,desgarre,1.5,187.0,minimo,ASTM D1004,no-indicada,0.187 (42) kN (lb),si
+GSE,negro_humo_contenido,1.5,2.0|3.0,rango,ASTM D1603,,2–3 %,si
+GSE,negro_humo_dispersion,1.5,"1, 2, 3",minimo,ASTM D5596,,"1, 2, 3",si
+GSE,scr,1.5,300.0,minimo,ASTM D5397 (SP-NCTL),,300 h,si
+GSE,oit_std,1.5,100.0,minimo,ASTM D3895,,100 min,si
+GSE,oit_hp,1.5,400.0,minimo,ASTM D5885,,400 min,si
+GSE,envejecimiento_horno,1.5,55.0,minimo,ASTM D5721 + D3895,,55 %,si
+GSE,envejecimiento_horno,1.5,80.0,minimo,ASTM D5721 + D5885,,80 %,si
+GSE,resistencia_uv,1.5,50.0,minimo,GM11 (D5885 tras 1600 h),,50 %,si
+GSE,espesor_promedio,1.5,1.5,minimo,ASTM D5199,,1.5 (60) mm (mils),si
+GSE,densidad,1.5,0.94,minimo,ASTM D1505/D792,,0.940 g/cm3,si
+GSE,traccion_fluencia,1.5,23.0,minimo,ASTM D6693,no-indicada,23 (132) kN/m (lb/in),si
+GSE,traccion_rotura,1.5,42.0,minimo,ASTM D6693,no-indicada,42 (243) kN/m (lb/in),si
+GSE,elongacion_fluencia,1.5,13.0,minimo,ASTM D6693,no-indicada,13 %,si
+GSE,elongacion_rotura,1.5,800.0,minimo,ASTM D6693,no-indicada,800 %,si
+GSE,punzonamiento,1.5,556.0,minimo,ASTM D4833,no-indicada,0.556 (125) kN (lb),si
+GSE,desgarre,1.5,187.0,minimo,ASTM D1004,no-indicada,0.187 (42) kN (lb),si
+GSE,negro_humo_contenido,1.5,2.0|3.0,rango,ASTM D1603,,2–3 %,si
+GSE,negro_humo_dispersion,1.5,"1, 2, 3",minimo,ASTM D5596,,"1, 2, 3",si
+GSE,scr,1.5,1000.0,minimo,ASTM D5397 (SP-NCTL),,1000 h,si
+GSE,oit_std,1.5,160.0,minimo,ASTM D3895,,160 min,si
+GSE,oit_hp,1.5,800.0,minimo,ASTM D5885,,800 min,si
+GSE,envejecimiento_horno,1.5,80.0,minimo,ASTM D5721 + D5885,,80 %,si
+GSE,resistencia_uv,1.5,80.0,minimo,GM11 (D5885 tras 1600 h),,80 %,si
+Huitex,densidad,1.0,0.94,minimo,ASTM D1505/D792,,0.940 g/cm3,si
+Huitex,elongacion_fluencia,1.0,13.0,minimo,ASTM D6693,no-indicada,13 %,si
+Huitex,elongacion_rotura,1.0,700.0,minimo,ASTM D6693,no-indicada,700 %,si
+Huitex,negro_humo_contenido,1.0,2.0|3.0,rango,ASTM D1603,,2.0 ~ 3.0 %,si
+Huitex,negro_humo_dispersion,1.0,cat.1/2,minimo,ASTM D5596,,cat.1/2,si
+Huitex,scr,1.0,500.0,minimo,ASTM D5397 (SP-NCTL),,500 h,si
+Huitex,oit_std,1.0,100.0,minimo,ASTM D3895,,100 min,si
+Huitex,oit_hp,1.0,400.0,minimo,ASTM D5885,,400 min,si
+Huitex,envejecimiento_horno,1.0,55.0,minimo,ASTM D5721 + D3895,,55 %,si
+Huitex,envejecimiento_horno,1.0,80.0,minimo,ASTM D5721 + D5885,,80 %,si
+Huitex,resistencia_uv,1.0,50.0,minimo,GM11 (D5885 tras 1600 h),,50 %,si
+Huitex,densidad,1.5,0.94,minimo,ASTM D1505/D792,,0.940 g/cm3,si
+Huitex,elongacion_fluencia,1.5,13.0,minimo,ASTM D6693,no-indicada,13 %,si
+Huitex,elongacion_rotura,1.5,700.0,minimo,ASTM D6693,no-indicada,700 %,si
+Huitex,negro_humo_contenido,1.5,2.0|3.0,rango,ASTM D1603,,2.0 ~ 3.0 %,si
+Huitex,negro_humo_dispersion,1.5,cat.1/2,minimo,ASTM D5596,,cat.1/2,si
+Huitex,scr,1.5,500.0,minimo,ASTM D5397 (SP-NCTL),,500 h,si
+Huitex,oit_std,1.5,100.0,minimo,ASTM D3895,,100 min,si
+Huitex,oit_hp,1.5,400.0,minimo,ASTM D5885,,400 min,si
+Huitex,envejecimiento_horno,1.5,55.0,minimo,ASTM D5721 + D3895,,55 %,si
+Huitex,envejecimiento_horno,1.5,80.0,minimo,ASTM D5721 + D5885,,80 %,si
+Huitex,resistencia_uv,1.5,50.0,minimo,GM11 (D5885 tras 1600 h),,50 %,si
+Layfield,espesor_promedio,1.5,1.5,minimo,ASTM D5199,,1.5 (60) mm (mils),si
+Layfield,densidad,1.5,0.94,minimo,ASTM D1505/D792,,≥ 0.94 g/cm3,si
+Layfield,traccion_fluencia,1.5,22.0,minimo,ASTM D6693,no-indicada,22 (126) kN/m (lb/in),si
+Layfield,traccion_rotura,1.5,40.0,minimo,ASTM D6693,no-indicada,40 (228) kN/m (lb/in),si
+Layfield,elongacion_fluencia,1.5,12.0,minimo,ASTM D6693,no-indicada,12 %,si
+Layfield,elongacion_rotura,1.5,700.0,minimo,ASTM D6693,no-indicada,700 %,si
+Layfield,punzonamiento,1.5,480.0,minimo,ASTM D4833,no-indicada,0.48 (108) kN (lb),si
+Layfield,desgarre,1.5,187.0,minimo,ASTM D1004,no-indicada,0.187 (42) kN (lb),si
+Layfield,negro_humo_contenido,1.5,2.0,minimo,ASTM D1603,,≥ 2.0 %,si
+Layfield,negro_humo_dispersion,1.5,Note [5],minimo,ASTM D5596,,Note [5],si
+Layfield,scr,1.5,500.0,minimo,ASTM D5397 (SP-NCTL),,500 h,si
+Layfield,oit_std,1.5,100.0,minimo,ASTM D3895,,100 min,si
+Layfield,oit_hp,1.5,400.0,minimo,ASTM D5885,,400 min,si
+Layfield,envejecimiento_horno,1.5,55.0,minimo,ASTM D5721 + D3895,,55 %,si
+Layfield,envejecimiento_horno,1.5,80.0,minimo,ASTM D5721 + D5885,,80 %,si
+Layfield,resistencia_uv,1.5,50.0,minimo,GM11 (D5885 tras 1600 h),,50 %,si
+Layfield,espesor_promedio,1.5,1.5,minimo,ASTM D5199,,1.5 (60) mm (mils),si
+Layfield,densidad,1.5,0.94,minimo,ASTM D1505/D792,,≥ 0.94 g/cm3,si
+Layfield,traccion_fluencia,1.5,20.0,minimo,ASTM D6693,no-indicada,20 (114) kN/m (lb/in),si
+Layfield,traccion_rotura,1.5,30.0,minimo,ASTM D6693,no-indicada,30 (171) kN/m (lb/in),si
+Layfield,elongacion_fluencia,1.5,13.0,minimo,ASTM D6693,no-indicada,13 %,si
+Layfield,elongacion_rotura,1.5,600.0,minimo,ASTM D6693,no-indicada,600 %,si
+Layfield,punzonamiento,1.5,480.0,minimo,ASTM D4833,no-indicada,0.48 (108) kN (lb),si
+Layfield,desgarre,1.5,187.0,minimo,ASTM D1004,no-indicada,0.187 (42) kN (lb),si
+Layfield,negro_humo_contenido,1.5,2.0,minimo,ASTM D1603,,≥ 2.0 %,si
+Layfield,negro_humo_dispersion,1.5,CAT1,minimo,ASTM D5596,,CAT1,si
+Layfield,scr,1.5,1000.0,minimo,ASTM D5397 (SP-NCTL),,1000 h,si
+Layfield,oit_std,1.5,100.0,minimo,ASTM D3895,,100 min,si
+Layfield,oit_hp,1.5,400.0,minimo,ASTM D5885,,400 min,si
+Layfield,envejecimiento_horno,1.5,55.0,minimo,ASTM D5721 + D3895,,55 %,si
+Layfield,envejecimiento_horno,1.5,80.0,minimo,ASTM D5721 + D5885,,80 %,si
+Layfield,resistencia_uv,1.5,50.0,minimo,GM11 (D5885 tras 1600 h),,50 %,si
+Layfield,espesor_promedio,1.5,1.5,minimo,ASTM D5199,,1.5 (60) mm (mils),si
+Layfield,densidad,1.5,0.94,minimo,ASTM D1505/D792,,≥ 0.94 g/cm3,si
+Layfield,traccion_fluencia,1.5,27.0,minimo,ASTM D6693,no-indicada,27 (152) kN/m (lb/in),si
+Layfield,traccion_rotura,1.5,40.0,minimo,ASTM D6693,no-indicada,40 (228) kN/m (lb/in),si
+Layfield,elongacion_fluencia,1.5,13.0,minimo,ASTM D6693,no-indicada,13 %,si
+Layfield,elongacion_rotura,1.5,600.0,minimo,ASTM D6693,no-indicada,600 %,si
+Layfield,punzonamiento,1.5,640.0,minimo,ASTM D4833,no-indicada,0.64 (144) kN (lb),si
+Layfield,desgarre,1.5,249.0,minimo,ASTM D1004,no-indicada,0.249 (56) kN (lb),si
+Layfield,negro_humo_contenido,1.5,2.0,minimo,ASTM D1603,,≥ 2.0 %,si
+Layfield,negro_humo_dispersion,1.5,CAT1,minimo,ASTM D5596,,CAT1,si
+Layfield,scr,1.5,1000.0,minimo,ASTM D5397 (SP-NCTL),,1000 h,si
+Layfield,oit_std,1.5,100.0,minimo,ASTM D3895,,100 min,si
+Layfield,oit_hp,1.5,400.0,minimo,ASTM D5885,,400 min,si
+Layfield,envejecimiento_horno,1.5,55.0,minimo,ASTM D5721 + D3895,,55 %,si
+Layfield,envejecimiento_horno,1.5,80.0,minimo,ASTM D5721 + D5885,,80 %,si
+Layfield,resistencia_uv,1.5,50.0,minimo,GM11 (D5885 tras 1600 h),,50 %,si
+Layfield,espesor_promedio,1.5,1.5,minimo,ASTM D5199,,1.5 (60) mm (mils),si
+Layfield,densidad,1.5,0.94,minimo,ASTM D1505/D792,,≥ 0.94 g/cm3,si
+Layfield,traccion_fluencia,1.5,27.0,minimo,ASTM D6693,no-indicada,27 (152) kN/m (lb/in),si
+Layfield,traccion_rotura,1.5,40.0,minimo,ASTM D6693,no-indicada,40 (228) kN/m (lb/in),si
+Layfield,elongacion_fluencia,1.5,13.0,minimo,ASTM D6693,no-indicada,13 %,si
+Layfield,elongacion_rotura,1.5,600.0,minimo,ASTM D6693,no-indicada,600 %,si
+Layfield,punzonamiento,1.5,400.0,minimo,ASTM D4833,no-indicada,0.4 (90) kN (lb),si
+Layfield,desgarre,1.5,187.0,minimo,ASTM D1004,no-indicada,0.187 (42) kN (lb),si
+Layfield,negro_humo_contenido,1.5,2.0,minimo,ASTM D1603,,≥ 2.0 %,si
+Layfield,negro_humo_dispersion,1.5,CAT1,minimo,ASTM D5596,,CAT1,si
+Layfield,scr,1.5,1000.0,minimo,ASTM D5397 (SP-NCTL),,1000 h,si
+Layfield,oit_std,1.5,100.0,minimo,ASTM D3895,,100 min,si
+Layfield,oit_hp,1.5,400.0,minimo,ASTM D5885,,400 min,si
+Layfield,envejecimiento_horno,1.5,55.0,minimo,ASTM D5721 + D3895,,55 %,si
+Layfield,envejecimiento_horno,1.5,80.0,minimo,ASTM D5721 + D5885,,80 %,si
+Layfield,resistencia_uv,1.5,50.0,minimo,GM11 (D5885 tras 1600 h),,50 %,si
+Solmax,densidad,1.5,0.94,minimo,ASTM D1505/D792,,0.940 g/cm3,si
+Solmax,traccion_fluencia,1.5,23.0,rango,ASTM D6693,no-indicada,23-44 (132-251) kN/m (lb/in),si
+Solmax,traccion_rotura,1.5,43.0,rango,ASTM D6693,no-indicada,43-80 (243-457) kN/m (lb/in),si
+Solmax,elongacion_fluencia,1.5,13.0,minimo,ASTM D6693,no-indicada,13 %,si
+Solmax,punzonamiento,1.5,550.0,rango,ASTM D4833,no-indicada,0.55-0.96 (125-216) kN (lb),si
+Solmax,desgarre,1.5,180.0,rango,ASTM D1004,no-indicada,0.18-0.37 (42-83) kN (lb),si
+Solmax,negro_humo_contenido,1.5,2.0,rango,ASTM D1603,,2-3 %,si
+Solmax,negro_humo_dispersion,1.5,1 or 2,minimo,ASTM D5596,,1 or 2,si
+Solmax,scr,1.5,1000.0,minimo,ASTM D5397 (SP-NCTL),,1000 h,si
+Solmax,oit_std,1.5,160.0,minimo,ASTM D3895,,160 min,si
+Solmax,oit_hp,1.5,800.0,minimo,ASTM D5885,,800 min,si
+Solmax,envejecimiento_horno,1.5,80.0,minimo,ASTM D5721 + D5885,,80 %,si
+Solmax,resistencia_uv,1.5,80.0,minimo,GM11 (D5885 tras 1600 h),,80 %,si
+Solmax,densidad,1.0,0.94,minimo,ASTM D1505/D792,,0.940 g/cm3,si
+Solmax,elongacion_fluencia,1.0,13.0,minimo,ASTM D6693,no-indicada,13 %,si
+Solmax,negro_humo_contenido,1.0,2.0,rango,ASTM D1603,,2-3 %,si
+Solmax,negro_humo_dispersion,1.0,1 or 2,minimo,ASTM D5596,,1 or 2,si
+Solmax,scr,1.0,500.0,minimo,ASTM D5397 (SP-NCTL),,500 h,si
+Solmax,oit_std,1.0,100.0,minimo,ASTM D3895,,100 min,si
+Solmax,oit_hp,1.0,400.0,minimo,ASTM D5885,,400 min,si
+Solmax,envejecimiento_horno,1.0,80.0,minimo,ASTM D5721 + D5885,,80 %,si
+Solmax,resistencia_uv,1.0,50.0,minimo,GM11 (D5885 tras 1600 h),,50 %,si
+GSE,espesor_promedio,1.0,1.0,tipico,DIN EN ISO 9863-1,,1.0 mm,no
+GSE,traccion_fluencia,1.0,17.0,tipico,DIN EN ISO 527-3 (Type 5; 100 mm/min; lo = 50 mm),no-indicada,17 MPa,no
+GSE,traccion_fluencia,1.0,16.0,minimo,DIN EN ISO 527-3 (Type 5; 100 mm/min; lo = 50 mm),no-indicada,16 MPa,no
+GSE,elongacion_fluencia,1.0,10.0,tipico,DIN EN ISO 527-3 (Type 5; 100 mm/min; lo = 50 mm),no-indicada,10 %,no
+GSE,elongacion_fluencia,1.0,9.0,minimo,DIN EN ISO 527-3 (Type 5; 100 mm/min; lo = 50 mm),no-indicada,9 %,no
+GSE,traccion_rotura,1.0,35.0,tipico,DIN EN ISO 527-3 (Type 5; 100 mm/min; lo = 50 mm),no-indicada,35 MPa,no
+GSE,traccion_rotura,1.0,26.0,minimo,DIN EN ISO 527-3 (Type 5; 100 mm/min; lo = 50 mm),no-indicada,26 MPa,no
+GSE,elongacion_rotura,1.0,800.0,tipico,DIN EN ISO 527-3 (Type 5; 100 mm/min; lo = 50 mm),no-indicada,800 %,no
+GSE,elongacion_rotura,1.0,700.0,minimo,DIN EN ISO 527-3 (Type 5; 100 mm/min; lo = 50 mm),no-indicada,700 %,no
+GSE,desgarre,1.0,135.0,tipico,DIN ISO 34-1/B,no-indicada,135 N,no
+GSE,desgarre,1.0,120.0,minimo,DIN ISO 34-1/B,no-indicada,120 N,no
+GSE,espesor_promedio,1.5,1.5,tipico,DIN EN ISO 9863-1,,1.5 mm,no
+GSE,traccion_fluencia,1.5,25.5,tipico,DIN EN ISO 527-3 (Type 5; 100 mm/min; lo = 50 mm),no-indicada,17 MPa,no
+GSE,traccion_fluencia,1.5,24.0,minimo,DIN EN ISO 527-3 (Type 5; 100 mm/min; lo = 50 mm),no-indicada,16 MPa,no
+GSE,elongacion_fluencia,1.5,11.0,tipico,DIN EN ISO 527-3 (Type 5; 100 mm/min; lo = 50 mm),no-indicada,11 %,no
+GSE,elongacion_fluencia,1.5,10.0,minimo,DIN EN ISO 527-3 (Type 5; 100 mm/min; lo = 50 mm),no-indicada,10 %,no
+GSE,traccion_rotura,1.5,52.5,tipico,DIN EN ISO 527-3 (Type 5; 100 mm/min; lo = 50 mm),no-indicada,35 MPa,no
+GSE,traccion_rotura,1.5,39.0,minimo,DIN EN ISO 527-3 (Type 5; 100 mm/min; lo = 50 mm),no-indicada,26 MPa,no
+GSE,elongacion_rotura,1.5,800.0,tipico,DIN EN ISO 527-3 (Type 5; 100 mm/min; lo = 50 mm),no-indicada,800 %,no
+GSE,elongacion_rotura,1.5,700.0,minimo,DIN EN ISO 527-3 (Type 5; 100 mm/min; lo = 50 mm),no-indicada,700 %,no
+GSE,desgarre,1.5,210.0,tipico,DIN ISO 34-1/B,no-indicada,210 N,no
+GSE,desgarre,1.5,195.0,minimo,DIN ISO 34-1/B,no-indicada,195 N,no
+GSE,oit_std,1.0,100.0,minimo,ASTM D8117,,100 mins,no
+GSE,oit_std,1.5,100.0,minimo,ASTM D8117,,100 mins,no
+NAUE,oit_std,1.0,100.0,minimo,EN 728 / ISO 11357-6,,>= 100 min,no
+NAUE,traccion_fluencia,1.0,16.0,minimo,EN ISO 527-3,no-indicada,>= 16 N/mm,no
+NAUE,traccion_fluencia,1.0,15.0,minimo,EN ISO 527-3,no-indicada,>= 15 MPa,no
+NAUE,elongacion_fluencia,1.0,10.0,minimo,EN ISO 527-3,no-indicada,>= 10 %,no
+NAUE,traccion_rotura,1.0,26.0,tipico,EN ISO 527-3,no-indicada,26 N/mm,no
+NAUE,traccion_rotura,1.0,26.0,tipico,EN ISO 527-3,no-indicada,26 MPa,no
+NAUE,elongacion_rotura,1.0,600.0,tipico,EN ISO 527-3,no-indicada,600 %,no
+NAUE,desgarre,1.0,130.0,tipico,ISO 34-1,no-indicada,130 N,no
+NAUE,resistencia_uv,1.0,50.0,tipico,ASTM D3895,,50 %,no
+NAUE,resistencia_uv,1.5,50.0,tipico,ASTM D3895,,50 %,no
+Atarfil,oit_std,1.0,100.0,minimo,UNE EN 728 (200ºC),,>100 min,no
+Atarfil,traccion_fluencia,1.0,18.0,tipico,UNE-EN ISO 527 (Tipo V),no-indicada,18 N/mm,no
+Atarfil,traccion_fluencia,1.0,17.0,minimo,UNE-EN ISO 527 (Tipo V),no-indicada,17 N/mm,no
+Atarfil,elongacion_fluencia,1.0,10.0,tipico,UNE-EN ISO 527 (Tipo V),no-indicada,10 %,no
+Atarfil,elongacion_fluencia,1.0,9.0,minimo,UNE-EN ISO 527 (Tipo V),no-indicada,9 %,no
+Atarfil,traccion_rotura,1.0,32.0,tipico,UNE-EN ISO 527 (Tipo V),no-indicada,32 N/mm,no
+Atarfil,traccion_rotura,1.0,26.0,minimo,UNE-EN ISO 527 (Tipo V),no-indicada,26 N/mm,no
+Atarfil,elongacion_rotura,1.0,800.0,tipico,UNE-EN ISO 527 (Tipo V),no-indicada,800 %,no
+Atarfil,elongacion_rotura,1.0,700.0,minimo,UNE-EN ISO 527 (Tipo V),no-indicada,700 %,no
+Atarfil,desgarre,1.0,140.0,minimo,ISO 34-1,no-indicada,≥ 140 N,no
+Atarfil,oit_std,1.5,100.0,minimo,UNE EN 728 (200ºC),,>100 min,no
+Atarfil,traccion_fluencia,1.5,27.0,tipico,UNE-EN ISO 527 (Tipo V),no-indicada,27 N/mm,no
+Atarfil,traccion_fluencia,1.5,25.0,minimo,UNE-EN ISO 527 (Tipo V),no-indicada,25 N/mm,no
+Atarfil,elongacion_fluencia,1.5,10.0,tipico,UNE-EN ISO 527 (Tipo V),no-indicada,10 %,no
+Atarfil,elongacion_fluencia,1.5,9.0,minimo,UNE-EN ISO 527 (Tipo V),no-indicada,9 %,no
+Atarfil,traccion_rotura,1.5,48.0,tipico,UNE-EN ISO 527 (Tipo V),no-indicada,48 N/mm,no
+Atarfil,traccion_rotura,1.5,39.0,minimo,UNE-EN ISO 527 (Tipo V),no-indicada,39 N/mm,no
+Atarfil,elongacion_rotura,1.5,800.0,tipico,UNE-EN ISO 527 (Tipo V),no-indicada,800 %,no
+Atarfil,elongacion_rotura,1.5,700.0,minimo,UNE-EN ISO 527 (Tipo V),no-indicada,700 %,no
+Atarfil,desgarre,1.5,210.0,minimo,ISO 34-1,no-indicada,≥ 210 N,no
+Sotrafa,espesor_minimo,1.0,1.0,tipico,UNE-EN 1849-2,no-indicada,1.00 +- 5 % mm,no
+Sotrafa,traccion_rotura,1.0,33.0,tipico,"UNE-EN ISO 527-3, probeta tipo 5",no-indicada,33 (>= 26) MPa,no
+Sotrafa,elongacion_rotura,1.0,900.0,tipico,"UNE-EN ISO 527-3, probeta tipo 5",no-indicada,900 (>= 700) %,no
+Sotrafa,traccion_fluencia,1.0,19.0,tipico,"UNE-EN ISO 527-3, probeta tipo 5",no-indicada,19 (>= 16) MPa,no
+Sotrafa,elongacion_fluencia,1.0,10.0,tipico,"UNE-EN ISO 527-3, probeta tipo 5",no-indicada,10 (>= 9) %,no
+Sotrafa,desgarre,1.0,150.0,tipico,ISO 34-1/B (a),no-indicada,150 (>= 135) N,no
+Sotrafa,oit_std,1.0,100.0,minimo,UNE-EN 728,no-indicada,>= 100 min,no
+Sotrafa,envejecimiento_horno,1.0,55.0,minimo,UNE-EN 728,no-indicada,>= 55 % retenido,no
+Sotrafa,resistencia_uv,1.0,55.0,minimo,UNE-EN 728,no-indicada,>= 55 % retenido,no
+Sotrafa,scr,1.0,300.0,minimo,UNE EN 14576,no-indicada,>= 300 h,no
+Sotrafa,espesor_minimo,1.5,1.5,tipico,UNE-EN 1849-2,no-indicada,1.50 +- 5 % mm,no
+Sotrafa,traccion_rotura,1.5,49.5,tipico,"UNE-EN ISO 527-3, probeta tipo 5",no-indicada,33 (>= 26) MPa,no
+Sotrafa,elongacion_rotura,1.5,900.0,tipico,"UNE-EN ISO 527-3, probeta tipo 5",no-indicada,900 (>= 700) %,no
+Sotrafa,traccion_fluencia,1.5,28.5,tipico,"UNE-EN ISO 527-3, probeta tipo 5",no-indicada,19 (>= 16) MPa,no
+Sotrafa,elongacion_fluencia,1.5,10.0,tipico,"UNE-EN ISO 527-3, probeta tipo 5",no-indicada,10 (>= 9) %,no
+Sotrafa,desgarre,1.5,225.0,tipico,ISO 34-1/B (a),no-indicada,225 (>= 200) N,no
+Sotrafa,oit_std,1.5,100.0,minimo,UNE-EN 728,no-indicada,>= 100 min,no
+Sotrafa,envejecimiento_horno,1.5,55.0,minimo,UNE-EN 728,no-indicada,>= 55 % retenido,no
+Sotrafa,resistencia_uv,1.5,55.0,minimo,UNE-EN 728,no-indicada,>= 55 % retenido,no
+Sotrafa,scr,1.5,300.0,minimo,UNE EN 14576,no-indicada,>= 300 h,no
+Maruplast,espesor_promedio,1.0,0.9,minimo,?,no-indicada,0.9 mm,no
+Maruplast,espesor_promedio,1.5,1.35,minimo,?,no-indicada,1.35 mm,no
+Maruplast,traccion_rotura,1.0,27.0,minimo,?,no-indicada,≥27 kN/m,no
+Maruplast,traccion_rotura,1.5,40.0,minimo,?,no-indicada,≥40 kN/m,no
+Maruplast,elongacion_rotura,1.0,700.0,minimo,?,no-indicada,≥700 %,no
+Maruplast,elongacion_rotura,1.5,700.0,minimo,?,no-indicada,≥700 %,no
+Maruplast,traccion_fluencia,1.0,15.0,minimo,?,no-indicada,≥15 kN/m,no
+Maruplast,traccion_fluencia,1.5,22.0,minimo,?,no-indicada,≥22 kN/m,no
+Maruplast,elongacion_fluencia,1.0,12.0,minimo,?,no-indicada,≥12 %,no
+Maruplast,elongacion_fluencia,1.5,12.0,minimo,?,no-indicada,≥12 %,no
+Maruplast,punzonamiento,1.0,320.0,minimo,?,no-indicada,≥320 no-impresa,no
+Maruplast,punzonamiento,1.5,480.0,minimo,?,no-indicada,≥480 no-impresa,no
+Maruplast,desgarre,1.0,125.0,minimo,?,no-indicada,≥125 no-impresa,no
+Maruplast,desgarre,1.5,187.0,minimo,?,no-indicada,≥187 no-impresa,no
+Maruplast,resistencia_uv,1.0,50.0,minimo,?,no-indicada,≥50 %,no
+Maruplast,resistencia_uv,1.5,50.0,minimo,?,no-indicada,≥50 %,no
+Maruplast,scr,1.0,300.0,minimo,?,no-indicada,≥300 h,no
+Maruplast,scr,1.5,300.0,minimo,?,no-indicada,≥300 h,no
+Maruplast,oit_std,1.0,100.0,minimo,?,no-indicada,≥100 minutos,no
+Maruplast,oit_std,1.5,100.0,minimo,?,no-indicada,≥100 minutos,no
+Maruplast,densidad,1.0,0.94,minimo,?,no-indicada,>0.940 g/cm3,no
+Maruplast,densidad,1.5,0.94,minimo,?,no-indicada,>0.940 g/cm3,no
+Pavco,resistencia_uv,1.0,50.0,minimo,ASTM D5885,,>50 %,no
+Pavco,resistencia_uv,1.5,50.0,minimo,ASTM D5885,,>50 %,no
